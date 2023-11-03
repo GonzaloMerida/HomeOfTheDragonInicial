@@ -12,4 +12,5 @@
     <string name="activity_destroyed">"La Activity ha sido destruida (Destroyed)"</string>
     <string name="tvStory">El rey Viserys ha muerto... Debes elegir a su sucesor como rey de los Ándalos y de los Primeros Hombres, Señor de los Siete Reinos y Protector del Reino. Para ello debes decidir entre apoyar a...</string>
     <string name="cbRaeniraTargaryen">Raenira Targaryen</string>
+    <string name="cbAegonTargaryen">Aegon Targaryen</string>
 </resources>

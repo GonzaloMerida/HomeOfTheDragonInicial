@@ -5,17 +5,16 @@
     android:id="@+id/llcElection"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ElectionActivity"
+    android:layout_margin="8dp"
     android:orientation="vertical"
-    android:layout_margin="8dp" >
+    tools:context=".ElectionActivity">
 
 
     <TextView
         android:id="@+id/tvGreetingElection"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/greeting_election"
-        />
+        android:text="@string/greeting_election" />
 
     <TextView
         android:id="@+id/tvStory"
@@ -23,9 +22,24 @@
         android:layout_height="wrap_content"
         android:text="@string/tvStory" />
 
-    <CheckBox
-        android:id="@+id/cbRaenira"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/cbRaeniraTargaryen" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/cbRaenira"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/cbRaeniraTargaryen" />
+
+        <CheckBox
+            android:id="@+id/cbAegon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_weight="1"
+            android:text="@string/cbAegonTargaryen" />
+    </LinearLayout>
 </androidx.appcompat.widget.LinearLayoutCompat>
