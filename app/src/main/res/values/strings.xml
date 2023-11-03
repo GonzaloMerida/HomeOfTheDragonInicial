@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomeOfTheDragon</string>
+    <string name="greeting">Bienvenido Sir, con quién tengo el placer de conversar?</string>
+    <string name="dark_knight">Dark knight</string>
+    <string name="answer">Responder</string>
+    <string name="greeting_election">Sir %s, es el momento de que tomes una difícil elección...</string>
+    <string name="activity_restarted">"La Activity ha sido reiniciada (Restarted)"</string>
+    <string name="activity_started">"La Activity ha sido iniciada (Started)"</string>
+    <string name="activity_resumed">"La Activity ha pasado a primer plano (Resumed)"</string>
+    <string name="activity_paused">"La Activity ha sido pausada (Paused)"</string>
+    <string name="activity_stopped">"La Activity ha sido parada (Stopped)"</string>
+    <string name="activity_destroyed">"La Activity ha sido destruida (Destroyed)"</string>
+    <string name="tvStory">El rey Viserys ha muerto... Debes elegir a su sucesor como rey de los Ándalos y de los Primeros Hombres, Señor de los Siete Reinos y Protector del Reino. Para ello debes decidir entre apoyar a...</string>
+    <string name="cbRaeniraTargaryen">Raenira Targaryen</string>
+</resources>
