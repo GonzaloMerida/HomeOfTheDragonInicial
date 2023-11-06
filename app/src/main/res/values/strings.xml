@@ -13,4 +13,11 @@
     <string name="tvStory">El rey Viserys ha muerto... Debes elegir a su sucesor como rey de los Ándalos y de los Primeros Hombres, Señor de los Siete Reinos y Protector del Reino. Para ello debes decidir entre apoyar a...</string>
     <string name="cbRaeniraTargaryen">Raenira Targaryen</string>
     <string name="cbAegonTargaryen">Aegon Targaryen</string>
+    <string name="tvInfoEleccion" />
+    <string name="bttnHincarRodilla">Hincar la rodilla</string>
+    <string name="tvResult" />
+    <string name="bttnIndex">INICIO</string>
+    <string name="bttnBack">ATRÁS</string>
+    <string name="bttnExit">SALIR</string>
+
 </resources>

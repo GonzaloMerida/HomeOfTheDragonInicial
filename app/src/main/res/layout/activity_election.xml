@@ -23,8 +23,9 @@
         android:text="@string/tvStory" />
 
     <LinearLayout
+        android:id="@+id/llcCheckBoxes"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:orientation="horizontal">
 
         <CheckBox
@@ -42,4 +43,18 @@
             android:layout_weight="1"
             android:text="@string/cbAegonTargaryen" />
     </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvInfoEleccion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        tools:text="@string/tvInfoEleccion" />
+
+    <Button
+        android:id="@+id/bttnHincarRodilla"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/bttnHincarRodilla" />
 </androidx.appcompat.widget.LinearLayoutCompat>
