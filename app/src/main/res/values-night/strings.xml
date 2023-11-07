@@ -3,4 +3,12 @@
     <string name="tvStory" />
     <string name="tvInfoEleccion" />
     <string name="bttnIndex" />
+    <string name="info_neither" />
+    <string name="info_raenira" />
+    <string name="info_aegon" />
+    <string name="info_both" />
+    <string name="result_neither" />
+    <string name="result_raenira" />
+    <string name="result_aegon" />
+    <string name="result_both" />
 </resources>

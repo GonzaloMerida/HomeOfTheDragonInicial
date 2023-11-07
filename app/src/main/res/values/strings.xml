@@ -19,5 +19,13 @@
     <string name="bttnIndex">INICIO</string>
     <string name="bttnBack">ATRÁS</string>
     <string name="bttnExit">SALIR</string>
+    <string name="info_neither">Si no tomas una decisión no podrás salir de esta encrucijada</string>
+    <string name="info_raenira">Has decidido apoyar a una mujer por encima del primogénito varón... Lo pagarás con sangre</string>
+    <string name="info_aegon">Has elegido a Aegon contra la voluntad del difunto rey... Arderás por tu elección... Dracarys!</string>
+    <string name="info_both">Jugar a dos bandas es muy peligroso... Tu cabeza podrá rodar en cualquier momento</string>
+    <string name="result_neither">Al no elegir a ninguno de los herederos no te expones demasiado, pero tu posición ha quedado desamparada</string>
+    <string name="result_raenira">Al elegir a Rhaenyra has provocado la ira de Aemon, el hermano de Aegon. Va con su dragón en tu búsqueda...</string>
+    <string name="result_aegon">Al elegir a Aegon, te has convertido en el principal objetivo de Rhaenyra. Tendrás algún lugar donde esconderte?</string>
+    <string name="result_both">Al elegir a ambos herederos has jugado todas tus cartas con un farol, te va a salir muy caro...</string>
 
 </resources>
