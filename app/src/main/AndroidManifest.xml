@@ -16,6 +16,9 @@
             android:name=".ElectionActivity"
             android:exported="false" />
         <activity
+            android:name=".FinalActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
