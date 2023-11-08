@@ -58,6 +58,9 @@ class ElectionActivity : AppCompatActivity() {
         updateInfoText()
     }
 
+    /**
+     * Actualiza lo que se muestra en el tvInfoElection según los checkboxes marcados
+     */
     private fun updateInfoText() {
         val result = getResultFromCheckboxes(cbRaenira.isChecked, cbAegon.isChecked)
         tvInfoElection.text = when (result) {
@@ -69,6 +72,9 @@ class ElectionActivity : AppCompatActivity() {
         }
     }
 
+    /**
+     * Método que permitirá indicar a otros métodos qué checkboxes están marcados
+     */
     private fun getResultFromCheckboxes(isRaeniraChecked: Boolean, isAegonChecked: Boolean): String {
         return when {
             isRaeniraChecked && isAegonChecked -> "both"

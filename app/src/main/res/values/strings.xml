@@ -15,6 +15,7 @@
     <string name="cbAegonTargaryen">Aegon Targaryen</string>
     <string name="tvInfoEleccion" />
     <string name="bttnHincarRodilla">Hincar la rodilla</string>
+    <string name="tvResult" />
     <string name="bttnIndex">INICIO</string>
     <string name="bttnBack">ATRÁS</string>
     <string name="bttnExit">SALIR</string>
@@ -26,5 +27,6 @@
     <string name="result_raenira">Al elegir a Rhaenyra has provocado la ira de Aemon, el hermano de Aegon. Va con su dragón en tu búsqueda...</string>
     <string name="result_aegon">Al elegir a Aegon, te has convertido en el principal objetivo de Rhaenyra. Tendrás algún lugar donde esconderte?</string>
     <string name="result_both">Al elegir a ambos herederos has jugado todas tus cartas con un farol, te va a salir muy caro...</string>
+    <string name="errorSnackbar">Debes ingresar un nombre</string>
 
 </resources>
